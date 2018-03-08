@@ -39,6 +39,8 @@ float le_teclado_float() {
 
 int main(int argc, char ** argv) {
 
+cout << "Teste Travis CI" << endl;
+
 cout << "Inicio do programa!!!!!!" << endl;
 
 if(argc > 1) {
